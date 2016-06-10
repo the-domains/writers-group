@@ -67,11 +67,11 @@ isBasedOnUrl: >-
 title: >-
   Lionsgate to Develop Patrick Rothfuss Fantasy Series for Movies, TV and Video
   Games - IGN
-datePublished: '2016-06-10T07:41:48.332Z'
-dateModified: '2016-06-10T07:41:17.115Z'
-starred: false
+datePublished: '2016-06-10T14:02:14.429Z'
+dateModified: '2016-06-10T14:02:13.518Z'
 sourcePath: >-
   _posts/2016-06-10-lionsgate-to-develop-patrick-rothfuss-fantasy-series-for-mov.md
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
