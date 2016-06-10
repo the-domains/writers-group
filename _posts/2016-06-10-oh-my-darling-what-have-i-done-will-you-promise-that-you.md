@@ -1,29 +1,29 @@
 ---
 description: >-
-  Oh, my darling… What have I done… Will you promise that you love me, still? No
-  matter the things I’ve seen and done. I am afraid that I am all too ready to
-  come home, my love… I want to come back now. I’ve seen enough. I want to come
-  back to the station. Oh, GOD do I want that more than anything in this world!
-  I want my eyes to wander over the land. I want my eyes to scan over the plains
-  for miles in every direction, over the vast freedom of it all. I want my eyes
-  to look over your body too, once more, my dearest. Damn, just to look at you
-  would be enough. Just one look would keep me going. Here, we have nothing but
-  the view of these god-forsaken cliffs and trenches (at the present moment, if
-  I put my head up for a peek of anything, I’d likely be given a pill in my
-  forehead)… Yes, a pill. A sweet Turkish kiss…
-dateModified: '2016-06-10T05:58:11.602Z'
-datePublished: '2016-06-10T05:58:29.330Z'
-title: ''
+  Oh, my darling… What have I done…  Will you promise that you love me, still?
+  No matter the things I’ve seen and done. I am afraid that I am all too ready
+  to come home, my love… I want to come back now. I’ve seen enough. I want to
+  come back to the station. Oh, GOD do I want that more than anything in this
+  world! I want my eyes to wander over the land. I want my eyes to scan over the
+  plains for miles in every direction, over the vast freedom of it all. I want
+  my eyes to look over your body too, once more, my dearest. Damn, just to look
+  at you would be enough. Just one look would keep me going. Here, we have
+  nothing but the view of these god-forsaken cliffs and trenches (at the present
+  moment, if I put my head up for a peek of anything, I’d likely be given a pill
+  in my forehead)… Yes, a pill. A sweet Turkish kiss…
+dateModified: '2016-06-10T06:00:00.841Z'
+datePublished: '2016-06-10T06:00:21.149Z'
+title: The Drover
 author: []
-starred: false
 sourcePath: _posts/2016-06-10-oh-my-darling-what-have-i-done-will-you-promise-that-you.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
 _type: MediaObject
 
 ---
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b424bd06-f45e-476d-8a65-038620546515.jpg)
+![By James Frankland](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b424bd06-f45e-476d-8a65-038620546515.jpg)
 
 Oh, my darling... What have I done...  
 Will you promise that you love me, still? No matter the things I've seen and done. I am afraid that I am all too ready to come home, my love... I want to come back now. I've seen enough. I want to come back to the station. Oh, GOD do I want that more than anything in this world! I want my eyes to wander over the land. I want my eyes to scan over the plains for miles in every direction, over the vast freedom of it all. I want my eyes to look over your body too, once more, my dearest. Damn, just to look at you would be enough. Just one look would keep me going. Here, we have nothing but the view of these god-forsaken cliffs and trenches (at the present moment, if I put my head up for a peek of anything, I'd likely be given a pill in my forehead)... Yes, a pill. A sweet Turkish kiss...
